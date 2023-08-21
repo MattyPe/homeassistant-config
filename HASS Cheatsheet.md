@@ -71,9 +71,9 @@ You can install Homebridge on a Pi using the following commands:
 7. For remote access to Homebridge devices, you will need to enable 2FA on your iOS devices. If you are not able to [remotely access](https://github.com/nfarina/homebridge/issues/1212) your Homebridge
 devices, you may have to sign out, restart, and sign back in to your Apple TV.
 
-
-# Top level heading Another top-level heading
-
+{
+    "MD013": false
+}
 
 I am using the default AIO username/password, replace them with yours
 
